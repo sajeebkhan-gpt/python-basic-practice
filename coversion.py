@@ -1,0 +1,12 @@
+print("10"+"10")
+print(int("10")+int("10"))
+print(float("10")+float("10"))
+print(str(10)+str(10))
+print(int("10")+float("10"))
+print(float("10")+int("10"))
+print(10+float("10"))
+
+name=input("enter your name")
+print(name)
+length=len(name)
+print(10+length)
